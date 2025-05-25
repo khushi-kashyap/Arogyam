@@ -39,9 +39,6 @@ Arogyam Kiosk is a futuristic, modern sci-fi themed web application designed to 
    ```
 3. Set up environment variables (create a `.env` file):
    ```plaintext
-   REACT_APP_SUPABASE_URL=your_supabase_url
-   REACT_APP_SUPABASE_ANON_KEY=your_supabase_anon_key
-   REACT_APP_AGORA_APP_ID=your_agora_app_id
    VITE_SUPABASE_URL=your_supabase_url
    VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
    VITE_AGORA_APP_ID=your_agora_app_id
